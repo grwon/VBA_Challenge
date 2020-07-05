@@ -25,8 +25,8 @@ We populated the yearly returns for each stock in tabluar data format. If we loo
 
 We can look at the execution times of the original script and the refactored script to determine whether refactoring our code successfully made the VBA script run faster. The execution time for year 2017 data is only 0.0703125 seconds with the refactored code compared to 0.4648438 seconds using the original code. The execution time for year 2018 data is only 0.0859375 seconds with the refactored code compared to 0.4414063 seconds using the original code. These results confirmed that refactored code successfully made the VBA script run faster.
 
-![VBA_Challenge_2017](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_2017.png).
-![VBA_Challenge_2018](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_2018.png).
+![VBA_Challenge_2017](https://github.com/grwon/VBA_Challenge/blob/master/Resources/VBA_Challenge_2017.png).
+![VBA_Challenge_2018](https://github.com/grwon/VBA_Challenge/blob/master/Resources/VBA_Challenge_2018.png).
 
 ## Summary
 
