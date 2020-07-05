@@ -14,8 +14,8 @@ Steve want to expand the dataset to include the entire stock market over the las
 
 We generated a table with Total Daily Volume for each green stock to help us understand how active the stock is traded in a particular year, see Total Daily Volume column in the result images below. The total daily volumne ranges from 35 to more than 684 million in year 2017 and ranges from 83 to more than 607 million in year 2018. We can see that DQ has the lowest volume in year 2017, but it is still at more than 35 million. Since all of these stocks are traded often, the prices will accurately reflect the value of the stocks.
 
-![VBA_Challenge_ResultTable_2017](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_ResultTable_2017.png)
-![VBA_Challenge_ResultTable_2018](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_ResultTable_2018.png)
+![VBA_Challenge_ResultTable_2017](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_ResultTable_2017.png).
+![VBA_Challenge_ResultTable_2018](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_ResultTable_2018.png).
 
 ### Analysis of Stock Performance Based on Yearly Returns
 
@@ -25,8 +25,8 @@ We populated the yearly returns for each stock in tabluar data format. If we loo
 
 We can look at the execution times of the original script and the refactored script to determine whether refactoring our code successfully made the VBA script run faster. The execution time for year 2017 data is only 0.0703125 seconds with the refactored code compared to 0.4648438 seconds using the original code. The execution time for year 2018 data is only 0.0859375 seconds with the refactored code compared to 0.4414063 seconds using the original code. These results confirmed that refactored code successfully made the VBA script run faster.
 
-![VBA_Challenge_2017](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_2017.png)
-![VBA_Challenge_2018](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_2017.png).
+![VBA_Challenge_2018](https://github.com/grwon/VBA_Challenge/blob/master/resources/VBA_Challenge_2018.png).
 
 ## Summary
 
