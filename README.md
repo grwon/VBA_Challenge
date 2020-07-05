@@ -31,6 +31,7 @@ We can look at the execution times of the original script and the refactored scr
 ## Summary
 
 - What are the advantages or disadvantages of refactoring code?
+  
   Refactoring process has the following advantages:
   1. improve performance by reducing the steps, using less memory, making the script run faster
   2. find bugs in original scripts
